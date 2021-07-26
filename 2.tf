@@ -11,5 +11,6 @@ resource aws_ebs_volume "newvol"
 }
 
 resource aws_eip "myeip"
+github=git clone,git fetch,git pull
 {
 }
