@@ -4,3 +4,4 @@ provider "aws"
  secret_key=PVBLibSGdl2RXcatfNA2yi4hFzyyLfcvLrk5UZ5a
  region=ap-northeast-1	
 }
+i want to check files
